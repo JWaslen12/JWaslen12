@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JWaslen12
 - 👀 I’m interested in the intersection of Finance and Technology.
-- 🌱 I’m currently learning about SQL and managing large databases.
+- 🌱 I’m currently learning about managing large databases.
 - 📫 Feel free to reach out at wasl8390@mylaurier.ca
 
 <!---
